@@ -6,7 +6,7 @@
         document.write(new Date().getFullYear());
         </script>
         , made with ❤️ by
-        <a href="https://github.com/Do-Ngoc-Quang" target="_blank" class="footer-link fw-bolder">Quang - Thanh - Triều</a>
+        <a href="https://github.com/Do-Ngoc-Quang" target="_blank" class="footer-link fw-bolder">Quang</a>
     </div>
     
     </div>
